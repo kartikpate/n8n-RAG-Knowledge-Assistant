@@ -4,6 +4,10 @@ I built this project to create an AI assistant that can answer questions using i
 
 The workflow uses Google Drive to load documents, OpenAI to create embeddings, Supabase as the vector database, and an AI Agent in n8n to retrieve relevant information when a user asks a question.
 
+## Workflow
+
+![RAG Knowledge Assistant Workflow](workflow/rag-workflow.png)
+
 ## How It Works
 
 The project has two main parts.
